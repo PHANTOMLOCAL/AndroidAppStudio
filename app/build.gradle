@@ -30,7 +30,7 @@
  */
 
 plugins {
-    id 'com.android.application'
+    id "com.android.application"
 }
 
 def localPropsFile = rootProject.file("local.properties")
